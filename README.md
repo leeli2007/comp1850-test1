@@ -1,2 +1,2 @@
 # comp1850-test1
-This is my first repo for COMP1850
+This is my first repo for COMP1850.
